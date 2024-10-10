@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prasanThukral
 - 👀 I’m interested in ...javascript backend apps
-- 🌱 I’m currently learning ...SQL 
 - 💞️ I’m looking to collaborate on ...full stack projects
 - 📫 How to reach me ...on my Gmail thukralprasan@gmail.com
 - 😄 Pronouns: ...He/Him
